@@ -247,4 +247,5 @@ return 0;
 
 
 Output:
+
 <img width="645" height="191" alt="image" src="https://github.com/user-attachments/assets/57925444-2caf-40ff-9ac4-58fabb441ba7" />
