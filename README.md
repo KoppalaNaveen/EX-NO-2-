@@ -34,7 +34,7 @@ STEP-5: Display the obtained cipher text.
 
 
 
-Program:
+## Program:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -157,6 +157,10 @@ int main() {
 ```
 
 
-Output:
+## Output:
 
 <img width="693" height="457" alt="image" src="https://github.com/user-attachments/assets/65cb4097-c441-4449-b42f-e12dbdea142f" />
+
+## Result :
+
+The program implementing the PlayFair cipher for encryption and decryption has been successfully executed, and the results have been verified.
